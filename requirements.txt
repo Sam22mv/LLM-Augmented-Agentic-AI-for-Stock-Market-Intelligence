@@ -1,0 +1,9 @@
+autogen
+openai
+python-dotenv
+matplotlib
+pandas
+yfinance
+requests
+beautifulsoup4
+lxml
